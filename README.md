@@ -3,7 +3,7 @@
 # ✈ Hire Me:
 [resume](https://www.github.com/flan02/flan02/blob/master/en_mernt_chanivetdan.pdf)
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dan.chanivet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dan-chanivet-574084b2) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/flano2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/flano2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@2kceltics) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/flan02) 
 
 # 💻 Tech Stack:
