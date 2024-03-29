@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on REACT PROJECTS<br>👯 I’m looking to collaborate on NEXTJS PROJECTS<br>🤝 I’m looking for help with SOLIDITY<br>🌱 I’m currently learning BLOCKCHAIN DEV<br>💬 Ask me about PROGRAMMING, IA<br>⚡ Fun fact I WATCH NBA A LOT<br>📫 How to reach me: chanivetdan@hotmail.com
+🔭 I’m currently working on REACT PROJECTS<br>👯 I’m looking to collaborate on NEXTJS PROJECTS<br>🤝 I’m looking for help with SOLIDITY<br>🌱 I’m currently learning BLOCKCHAIN DEV<br>💬 Ask me about PROGRAMMING, IA<br>⚡ Fun fact I WATCH NBA A LOT ☘<br>📫 How to reach me: chanivetdan@hotmail.com
 # 🚀 Hire Me:
 [My Resume/CV](https://www.github.com/flan02/flan02/blob/master/en_mernt_chanivetdan.pdf)
 
