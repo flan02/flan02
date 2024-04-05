@@ -26,7 +26,7 @@ Frontend<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=flan02&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=flan02&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=flan02)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
