@@ -34,9 +34,10 @@ Frontend<br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=flan02&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-https://raw.githubusercontent.com/flan02/flan02/main/meme_cristobal_colon.jpg
+### Favourite Dev momo
+![](https://raw.githubusercontent.com/flan02/flan02/main/meme_cristobal_colon.jpg)
 <!--
+### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 -->
 ---
