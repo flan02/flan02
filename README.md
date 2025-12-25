@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on OPENAI PROJECTS<br>👯 I’m looking to collaborate on NEXTJS PROJECTS<br>🌱 I’m currently learning ARTIFICIAL INTELLIGENCE DEV<br>💬 Ask me about PROGRAMMING, AI<br>⚡ Fun fact I WATCH NBA A LOT ☘<br>📫 How to reach me: chanivetdan@hotmail.com<br>📺 Visit my portfolio website [https://danchanivet.xyz](https://danchanivet.xyz)
 # 🥇 Hire Me:
-[My Resume/CV](https://www.github.com/flan02/flan02/blob/master/mern-cv2025-dan_chanivet-en.pdf)
+[My Resume/CV](https://github.com/flan02/flan02/blob/main/cv-danchanivet-EN2026.pdf)
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dan.chanivet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dan-chanivet-574084b2) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/flano2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/flano2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@2kceltics) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/flan02) 
