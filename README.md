@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on OPENAI PROJECTS<br>👯 I’m looking to collaborate on NEXTJS PROJECTS<br>🌱 I’m currently learning ARTIFICIAL INTELLIGENCE DEV<br>💬 Ask me about PROGRAMMING, AI<br>⚡ Fun fact I WATCH NBA A LOT ☘<br>📫 How to reach me: chanivetdan@hotmail.com<br>📺 Visit my portfolio website [https://www.danchanivet.tech](https://www.danchanivet.tech)
+🔭 I’m currently working on OPENAI PROJECTS<br>👯 I’m looking to collaborate on NEXTJS PROJECTS<br>🌱 I’m currently learning ARTIFICIAL INTELLIGENCE DEV<br>💬 Ask me about PROGRAMMING, AI<br>⚡ Fun fact I WATCH NBA A LOT ☘<br>📫 How to reach me: chanivetdan@hotmail.com<br>📺 Visit my portfolio website [https://www.danchanivet.tech](https://danchanivet.xyz)
 # 🥇 Hire Me:
 [My Resume/CV](https://www.github.com/flan02/flan02/blob/master/mern-cv2025-dan_chanivet-en.pdf)
 
